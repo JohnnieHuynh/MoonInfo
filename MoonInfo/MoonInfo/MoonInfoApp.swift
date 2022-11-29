@@ -2,7 +2,7 @@
 //  MoonInfoApp.swift
 //  MoonInfo
 //
-//  Created by Johnny Huynh on 8/12/22.
+//  
 //
 
 import SwiftUI
